@@ -1,0 +1,26 @@
+.Numbers {
+    font-weight: 400;
+    font-size: 288px;
+    text-align: center;
+    color: rgba(242, 124, 15, 1);
+}
+.allBottons {
+    width: 200px;
+    height: 58px;
+    border-radius: 4px;
+    border-style: none;
+    color: rgba(255, 255, 255, 1);
+    font-size: 24px;
+}
+.botton1 {
+    background: rgba(0, 51, 153, 1);
+}
+.botton2 {
+    background: rgba(242, 124, 15, 1);
+    margin: 0px 55px 0px 55px;
+}
+.botton3 {
+    background: rgba(229, 229, 229, 1);
+    color: rgba(0, 0, 0, 1);
+    ;
+}

@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+  font-family: 'Gilroy';
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'Gilroy';
+  src: url('./components/font/Gilroy-Light.eot');
+  src: local('Gilroy Light'), local('Gilroy-Light'),
+      url('./components/font/Gilroy-Light.eot?#iefix') format('embedded-opentype'),
+      url('./components/font/Gilroy-Light.woff') format('woff'),
+      url('./components/font/Gilroy-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+.SubBody {
+  width: 710px;
+  margin: auto;
+}
